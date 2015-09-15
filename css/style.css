@@ -1,0 +1,11 @@
+div {
+  width: 80px;
+  height: 80px;
+  background-color: green;
+  margin: 40px auto;
+}
+
+div:hover {
+  background-color: red;
+  font-size: 40px;
+}
